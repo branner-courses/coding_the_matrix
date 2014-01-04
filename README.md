@@ -22,8 +22,4 @@ Calc III at CCNY is a five-credit course — four credit-hours (3:20 by the cloc
 
 I intend to post code for the assignments in a directory, `ASSIGNMENTS_DPB/`. If other people choose to work in tandem with me, I hope they will also post their code in their own directories on the same site, similarly named.
 
-### Other
-
-In case it's of interest, you can find a review I wrote of a book about an interesting detail in the history of Linear Algebra on [my website](https://brannerchinese.com/dpb/publications/Branner_Hart_review.pdf).
-
 [end]
