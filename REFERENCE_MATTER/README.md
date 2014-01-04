@@ -3,6 +3,9 @@
 ### Videos
 I find some videos from the Coursera course have been posted here: [http://benkyoplayer.com/courses/coding-the-matrix-linear-algebra-through-computer-science-applications](http://benkyoplayer.com/courses/coding-the-matrix-linear-algebra-through-computer-science-applications), accessed 20140103.
 
+### Other on-line courses
+Katherine Ye notes an on-line [course at U.T. Austin](https://www.edx.org/course/utaustinx/utaustinx-ut-5-01x-linear-algebra-1162).
+
 ### Other books
 Nathan Brei writes:
 
