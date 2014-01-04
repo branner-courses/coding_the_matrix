@@ -6,7 +6,7 @@ One of those courses is Linear Algebra, something very valuable in Computer Scie
 
 Instead, I have in mind to work seriously through **Philip N. Klein's _Coding the Matrix: Linear Algebra through Computer Science Applications_**, whose first edition was published in November of 2013. 
 
-### Text and other resrources
+### Text and other resources
 
 Information about the book and other elements of the course are to be found on this website: [codingthematrix.com](http://codingthematrix.com/). Quite a few pages can be examined on the [Amazon "look inside" reader page](http://www.amazon.com/dp/0615880991/#reader_0615880991).
 
