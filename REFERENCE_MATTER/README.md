@@ -1,3 +1,3 @@
-## Reference matter from the Philip N. Klein textbook, website, and on-line courses
+## Reference matter
 
 [end]
