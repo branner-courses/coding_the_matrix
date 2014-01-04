@@ -11,8 +11,10 @@
  2. To replace `S` with its union or intersection with another set, `T`:
 
         S.update(T)
-
         S.intersection_update(T)
 
+ 1. To copy a set by value:
+
+        T = S.copy()
 
 [end]
