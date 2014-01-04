@@ -1,7 +1,7 @@
 ## Reference matter
 
 ### Videos
-I find some from the Coursera course have been posted here: [http://benkyoplayer.com/courses/coding-the-matrix-linear-algebra-through-computer-science-applications](http://benkyoplayer.com/courses/coding-the-matrix-linear-algebra-through-computer-science-applications), accessed 20140103.
+I find some videos from the Coursera course have been posted here: [http://benkyoplayer.com/courses/coding-the-matrix-linear-algebra-through-computer-science-applications](http://benkyoplayer.com/courses/coding-the-matrix-linear-algebra-through-computer-science-applications), accessed 20140103.
 
 ### Other books
 Nathan Brei writes:
