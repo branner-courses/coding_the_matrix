@@ -2,10 +2,17 @@
 
  1. To add to a set `S`:
 
-        S.update('new_item')
+        S.add('new_item')
 
  1. To subtract from a set `S`:
 
-        S.intersection_update({'remove_me'})
+        S.remove('remove_me')
+
+ 2. To replace `S` with its union or intersection with another set, `T`:
+
+        S.update(T)
+
+        S.intersection_update(T)
+
 
 [end]
