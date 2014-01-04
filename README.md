@@ -12,7 +12,7 @@ There is more reference information in the `REFERENCE_MATTER/` directory of this
 
 ### Time
 
-Calc III at CCNY is a five-credit course — four credit-hours (3:20 by the clock) per week of lecture plus one of MATLAB. Faculty in the engineering school always say the same thing I tell my students of Chinese: an hour of class costs some two or three hours of out-of-class time to process. Translation: a five credit course costs ten to fifteen hours of homework a week. So, since I'm doing this course instead of Calc III, my intention is to give it the same amount of time: fifteen to twenty hours a week, including four or five studying the textbook (mainly) and any videos.
+Calc III at CCNY is a five-credit course — four credit-hours (3:20 by the clock) per week of lecture plus one of MATLAB. Faculty in the engineering school always say the same thing I tell my students of Chinese: an hour of class costs some two or three hours of out-of-class time to process. Translation: a five-credit course costs ten to fifteen hours of homework a week. So, since I'm doing this course instead of Calc III, my intention is to give it the same amount of time: fifteen to twenty hours a week, including four or five studying the textbook (mainly) and any videos.
 
 ### Homework
 
