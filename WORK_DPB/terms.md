@@ -18,6 +18,7 @@
  * not onto: co-domain is superset of image
  * not one-to-one: more than one pre-image maps to the same image.
  * invertible: both one-to-one and onto.
+ * Fundamental principle of probability theory: The probability of an event is the sum of the probabilities of the outcomes making up the event.
  * outcome: pre-image of a probability.
  * event: set of outcomes.
  * random: (not defined).
