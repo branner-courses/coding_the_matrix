@@ -38,13 +38,12 @@ def andSearch(inverseIndex, query):
     first_word = query[0]
     if first_word in inverseIndex:
         to_return = set(inverseIndex[first_word])
-        print('succeed on first_word')
     else:
         return None
     # 2. Remove those doc #s in which subsequent words are not found.
     for word in query:
-        if word in inverseIndex:
-            print(word)
+        # No need to continue if to_return is empty.
+        if to_return and word in inverseIndex:
             to_return.intersection_update(list(inverseIndex[word]))
         else:
             return None
