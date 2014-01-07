@@ -11,8 +11,9 @@
  * pre-image: a specific input corresponding to a specific output of a function.
  * domain: set of possible inputs.
  * co-domain: set of possibly outputs (may be superset of image).
- * under: like "when serving as argument to": "input maps to output under function".
+ * under: like "when serving as argument to": "input maps to output under function". In "f : A -> B", the colon is read "under".
  * map: like "is assigned to": "input maps to output under function".
+ * right arrow: read "maps" in "f : A -> B".
  * procedure: "function" in Python coding; use this to avoid confusion with mathematical term "function".
  * not onto: co-domain is superset of image
  * not one-to-one: more than one pre-image maps to the same image.
