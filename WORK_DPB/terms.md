@@ -22,5 +22,6 @@
  * random
  * filter: condition within a comprehension (Klein's term)
  * disjoint: (of sets) non-overlapping
+ * formal argument: (of a "procedure") what we usually call the argument of a Python function
 
 [end]
