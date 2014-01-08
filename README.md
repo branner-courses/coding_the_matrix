@@ -22,4 +22,8 @@ Calc III at CCNY is a five-credit course — four credit-hours (3:20 by the cloc
 
 I intend to post code for the assignments in a directory, `WORK_DPB/`. If other people choose to work in tandem with me, I hope they will also post their code in their own directories on the same site, similarly named.
 
+### Autograding
+
+There is a [tentative beta site](http://grading.codingthematrix.com/) for autograding, not yet listed on the project's website (20140108).
+
 [end]
