@@ -68,6 +68,6 @@ Pr_f_is_odd  = 1 - 0.7
 ## 5: Problem 0.8.11Probability_2
 #Please give your solution as a fraction
 
-Pr_g_is_1    = (.2 + .1 + .1) / 1
-Pr_g_is_0or2 = (.2 + .1 + .1 + 2) / 1
+Pr_g_is_1    = "4/10"
+Pr_g_is_0or2 = "6/10"
 
