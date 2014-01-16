@@ -1,8 +1,12 @@
+# search_engine.py
+# David Prager Branner
+# 20140116 version
+
 import sys, os
 
-def get_contents(the_file):
+def get_contents(fname):
     """Return contents of file as list of 'documents' = lines."""
-    with open(os.path.join('data', the_file), 'r') as f:
+    with open(os.path.join('data', fname), 'r') as f:
         contents = f.read()
     contents = contents.split('\n')
     return contents
@@ -39,12 +43,12 @@ def andSearch(inverseIndex, query):
     if first_word in inverseIndex:
         to_return = set(inverseIndex[first_word])
     else:
-        return None
+        return set()
     # 2. Remove those doc #s in which subsequent words are not found.
     for word in query:
         # No need to continue if to_return is empty.
         if to_return and word in inverseIndex:
             to_return.intersection_update(list(inverseIndex[word]))
         else:
-            return None
+            return set()
     return to_return
